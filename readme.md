@@ -1,5 +1,5 @@
 # Dummy App - Testing Database Connection
-If you need to make a simple test connecting a .NetCore 8 App with a remote database and check connectivity + IIS setup for a WebAPI, you're in the right place!
+If you need to make a simple test connecting a .NetCore 8 App with a remote database running onto Win2k12 environment and further check your IIS setup for a WebAPI, you're in the right place!
 
 
 ## Setup your database and table
